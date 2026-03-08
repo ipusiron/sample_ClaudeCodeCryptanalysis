@@ -16,7 +16,7 @@ ciphertext/ciphertext.txt に格納された暗号文を解読するプロジェ
 - frequency-analyst : IC計算・頻度分析・鍵長推定。
 - key-estimator   : 列分割後の頻度分析・鍵文字候補の列挙。
 - decryptor       : 候補鍵での復号・英文判定・結果評価。
-- skeptic         : 他メンバーの結論への反論・別仮説の提示。
+- skeptic         : 他チームメイトの結論への反論・別仮説の提示。
 
 ## ルール
 - ciphertext/ 配下のファイルは絶対に変更しない
@@ -42,4 +42,3 @@ ciphertext/ciphertext.txt に格納された暗号文を解読するプロジェ
 - 暗号方式の推定が誤っていた可能性がある場合、別の方式を試す
 - 3回連続で失敗したら、analysis/findings.md に状況を記録し、
   別のアプローチを検討する
-  
