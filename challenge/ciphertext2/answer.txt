@@ -1,0 +1,7 @@
+# チャレンジ暗号文2の鍵情報（機械可読）
+cipher: vigenere
+key: LIBERTYEAGLEJUSTICE
+key_length: 19
+key_composition: 3つの英単語（LIBERTY + EAGLE + JUSTICE）の連結
+mode: A=0
+plaintext: アメリカ独立宣言（plaintext.txt 参照、6534文字）

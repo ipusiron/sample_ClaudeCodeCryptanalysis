@@ -1,0 +1,16 @@
+# チャレンジ暗号文3の鍵情報（機械可読）
+cipher: vigenere + columnar_transposition（積暗号）
+encryption_order: layer1 -> layer2（復号は逆順）
+layer1:
+  type: vigenere
+  key: LIBERTYEAGLEJUSTICE
+  key_length: 19
+  mode: A=0
+layer2:
+  type: columnar_transposition
+  key: FREEDOM
+  key_length: 7
+  column_order: [4, 2, 3, 0, 6, 5, 1]
+padding: 末尾に4文字の'X'（6534 -> 6538文字）
+plaintext: アメリカ独立宣言（plaintext.txt 参照、6534文字）
+ciphertext_length: 6538

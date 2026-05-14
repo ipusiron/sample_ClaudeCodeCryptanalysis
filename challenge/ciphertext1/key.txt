@@ -1,6 +1,1 @@
-# チャレンジ暗号文1の鍵情報（機械可読）
-cipher: vigenere
-key: EAGLE
-key_length: 5
-mode: A=0
-plaintext: アメリカ独立宣言（plaintext.txt 参照、6534文字）
+EAGLE
