@@ -6,6 +6,7 @@
 |---|---|
 | `ciphertext.txt` | チャレンジ暗号文 |
 | `plaintext.txt` | 平文 |
+| `key.txt` | 鍵情報（機械可読、YAML風） |
 
 ## アメリカ独立宣言（United States Declaration of Independence）の原文の入手先
 
