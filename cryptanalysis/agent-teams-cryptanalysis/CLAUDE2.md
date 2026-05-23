@@ -4,7 +4,7 @@
 ciphertext/ciphertext.txt に格納された暗号文を解読するプロジェクト。
 暗号化方式・鍵・平文のいずれも不明。
 
-## ディレクトリー構成
+## ディレクトリ構成
 - ciphertext/     : 暗号文データ（変更禁止）
 - scripts/        : 解読用スクリプト（Python）
 - results/        : 分析結果の出力先

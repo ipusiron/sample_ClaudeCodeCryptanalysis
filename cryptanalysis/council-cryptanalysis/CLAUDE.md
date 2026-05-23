@@ -3,7 +3,7 @@
 ## プロジェクト概要
 ciphertext.txt に記載された暗号文を、偉人会議形式で解読する。
 
-## ディレクトリー構成
+## ディレクトリ構成
 - ciphertext.txt    : 解読対象の暗号文
 - results/session_state.md : 現在の状態サマリー（自動更新）
 - results/*.md      : 各種分析結果
