@@ -26,9 +26,10 @@
 
 ## 関連リンク
 
-- 書籍購入：https://hack.booth.pm/items/8015186
-- 著者ブログ：https://akademeia.info
-- 著者X：https://x.com/ipusiron
+- 書籍『生成AI時代の暗号技術入門』購入：後ほど追加予定
+- 書籍『Claude Code暗号解読決戦　ミジンコ vs. AIエージェント』購入：[https://hack.booth.pm/items/8015186](https://hack.booth.pm/items/8015186)
+- 著者ブログ：[https://akademeia.info](https://akademeia.info)
+- 著者X：[https://x.com/ipusiron](https://x.com/ipusiron)
 
 ## ライセンス
 
