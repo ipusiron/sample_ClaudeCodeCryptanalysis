@@ -26,6 +26,10 @@
 
 このほか、`ciphertext1/` と `ciphertext2/` には復号結果（`decrypted_text.txt`／`decrypted.txt`）、`ciphertext2/` と `ciphertext3/` には解読セッションの記録（`log/`）を収録しています。
 
+### 平文の全文（`plaintext/`）
+
+3つのチャレンジ暗号文に共通する平文（アメリカ独立宣言の英文全文）を `declaration.txt` として収録しています。各フォルダーの `plaintext.txt` と同じ内容です。
+
 ### 偉人会議プロンプト（`cryptanalysis/council-prompt/`）
 
 偉人会議で使用するプロンプトファイル（`prompt.txt`）を収録しています。
