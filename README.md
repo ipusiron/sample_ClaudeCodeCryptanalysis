@@ -12,7 +12,7 @@
 |---|---|---|
 | `challenge/ciphertext1/` | ヴィジュネル暗号 | "EAGLE"（5文字） |
 | `challenge/ciphertext2/` | ヴィジュネル暗号 | "LIBERTYEAGLEJUSTICE"（19文字） |
-| `challenge/ciphertext3/` | ヴィジュネル暗号＋コラムナー転置暗号（二重暗号） | "LIBERTYEAGLEJUSTICE"（19文字）＋"FREEDOM"（7文字） |
+| `challenge/ciphertext3/` | ヴィジュネル暗号と縦列転置式暗号の積暗号 | "LIBERTYEAGLEJUSTICE"（19文字）＋"FREEDOM"（7文字） |
 
 各フォルダーには次のファイルが含まれています。
 
