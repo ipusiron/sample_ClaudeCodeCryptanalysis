@@ -42,6 +42,25 @@
 
 Agent Teamsによる暗号解読プロジェクト用の `CLAUDE.md` ファイルを収録しています。`CLAUDE2.md` は、`CLAUDE.md` にGit連携（コミットのタイミング、コミットメッセージの規約、コミット手順）の節を加えたものです。
 
+## 書籍との対応
+
+それぞれの書籍で使うファイルに○を付けています。かっこ内は、書籍の中で使う章または案内している箇所です。
+
+| ファイル | 『Claude Code暗号解読決戦』（同人誌） | 『生成AI時代の暗号技術入門』（商業誌） |
+|---|:-:|:-:|
+| `challenge/ciphertext1/ciphertext.txt` | ○（付録A） | ○（第8章、付録A） |
+| `challenge/ciphertext2/ciphertext.txt` | ○（付録A） | ○（付録A） |
+| `challenge/ciphertext3/ciphertext.txt` | ○（付録A） | ○（付録A） |
+| `challenge/ciphertextN/key.txt` | － | ○（付録A） |
+| `challenge/ciphertextN/answer.txt` | － | ○（付録A） |
+| `plaintext/declaration.txt` | － | ○（付録A） |
+| `cryptanalysis/council-prompt/prompt.txt` | ○（第6章） | ○（第9章） |
+| `cryptanalysis/council-cryptanalysis/CLAUDE.md` | ○（第6章） | ○（第9章） |
+| `cryptanalysis/agent-teams-cryptanalysis/CLAUDE.md` | ○（第7章） | ○（第10章） |
+| `cryptanalysis/agent-teams-cryptanalysis/CLAUDE2.md` | ○（第8章） | ○（第11章） |
+
+`ciphertextN` の N は1〜3です。表にないファイル（各フォルダーの `plaintext.txt`・`README.md`・復号結果・`log/`）は、書籍では案内していない参考資料です。
+
 ## 関連リンク
 
 - 書籍『生成AI時代の暗号技術入門』購入：[https://nextpublishing.jp/book/19897.html](https://nextpublishing.jp/book/19897.html)（インプレスの書籍ページ）、[https://akademeia.info/?page_id=50528](https://akademeia.info/?page_id=50528)（サポートページ）
